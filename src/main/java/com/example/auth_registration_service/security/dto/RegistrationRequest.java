@@ -2,7 +2,6 @@ package com.example.auth_registration_service.security.dto;
 
 import jakarta.validation.constraints.NotEmpty;
 import lombok.Data;
-import org.hibernate.validator.constraints.UniqueElements;
 
 @Data
 public class RegistrationRequest {
