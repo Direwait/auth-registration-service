@@ -16,8 +16,6 @@ target/
 .env
 .env.*
 
-logs/
-.logs/
 ### IntelliJ IDEA ###
 .idea
 *.iws
@@ -36,3 +34,5 @@ build/
 
 ### VS Code ###
 .vscode/
+
+/logs/
